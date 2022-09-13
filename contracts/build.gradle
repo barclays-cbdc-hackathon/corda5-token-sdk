@@ -4,7 +4,7 @@ plugins {
     id 'jacoco'
     id 'org.jetbrains.kotlin.plugin.jpa'
     id 'org.jetbrains.kotlin.plugin.allopen'
-    id 'com.r3.internal.gradle.plugins.r3Publish'
+//    id 'com.r3.internal.gradle.plugins.r3Publish'
 }
 
 description 'Token SDK Contracts'
